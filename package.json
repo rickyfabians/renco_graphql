@@ -19,7 +19,7 @@
     "apollo-link-logger": "^1.2.3",
     "graphql": "^14.5.8",
     "graphql-tag": "^2.10.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-gesture-handler": "^1.5.3",
